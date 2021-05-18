@@ -1,0 +1,81 @@
+body{
+    background-color:  
+    #f2f2f2;
+}
+h1{
+    margin-left:14em;
+    font-family:Helvetica;
+    color:
+    #ff6699;
+}
+h4{
+    margin-left:31.4em;
+    font-family:Garamond;
+    color: #b3003b;
+}
+input{
+    margin-left:12em;
+}
+.stud,.bdate,.address,.address1,.city,.code,.email,.mnumber{
+    margin-left:10em; 
+    font-family:Helvetica;
+    color:
+    #ff6699;
+    font-weight: bold;
+}
+.address1{
+    font-family:Garamond;
+    color: #b3003b;
+    font-weight: normal;
+}
+.fn{
+    margin-left:10em;  
+}
+.mn{
+    margin-left:16.2em;  
+}
+
+.ln{
+    margin-left:15.2em;  
+}
+
+.fn,.mn,.ln,.state,.ctry{
+    font-family:Garamond;
+    color: #b3003b;
+}
+
+#female,#other{
+    margin-left:50em;  
+    
+}
+#male{
+    margin-left:27em;
+   
+}
+.state{
+    margin-left:19em;
+    font-family:Helvetica;
+    color:
+    #ff6699;
+    font-weight: bold;
+}
+#country{
+    margin-left:12em;
+}
+.ctry{
+    margin-left:16em;
+    font-family:Helvetica;
+    color:
+    #ff6699;
+    font-weight: bold;
+}
+.gen{
+    margin-left:27.5em; 
+    font-family:Helvetica;  
+    color:
+    #ff6699;
+    font-weight: bold;
+}
+.G{
+    color: #b3003b;
+}
